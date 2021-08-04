@@ -1,4 +1,4 @@
-A Full Responsive ReactJs movie search. 
+A Full Responsive Webpage that could be used to search Movies. It was done in ReactJS using the API from https://api.themoviedb.org/. To style the webpage I have used Styled Components. 
 ###
 You can have a look here : https://www.behance.net/gallery/115319083/Movie-Search-App?
 
